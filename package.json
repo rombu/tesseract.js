@@ -1,5 +1,5 @@
 {
-  "name": "@rombu/tesseract.js",
+  "name": "@rombu-tesseract.js",
   "version": "1.0.10",
   "description": "Pure Javascript Multilingual OCR",
   "main": "src/index.js",
